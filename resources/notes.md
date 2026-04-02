@@ -16,13 +16,13 @@
 
 [data structure] (https://www.youtube.com/watch?v=cQWr9DFE1ww)
 
-array- In order numerically, if you insert into the array it moves the rest of the array forward. if no space available then the array must find an entirley new section of memory to store itself, making it inefficent. 
+### array- In order numerically, if you insert into the array it moves the rest of the array forward. if no space available then the array must find an entirley new section of memory to store itself, making it inefficent. 
 
-linked list- Inserted anywhere in the memory rather than in order. Unassigned index order however each points to the next. To read the list you can only go 1 by 1 meaning if you want to read the 4th entery in the list you need to read the first second and third before you're able to be pointed towards the 4th.
+### linked list- Inserted anywhere in the memory rather than in order. Unassigned index order however each points to the next. To read the list you can only go 1 by 1 meaning if you want to read the 4th entery in the list you need to read the first second and third before you're able to be pointed towards the 4th.
 
-hashmaps - data structure which allows for each individual element in a "list" to be assigned its own index, making each element easier to find. Commonly known as key value pairs, the element is refered to as a "Value" and the index is known as a "key". Hash maps are unordered compared to an array. In python they are known as dictionaries 
+### hashmaps - data structure which allows for each individual element in a "list" to be assigned its own index, making each element easier to find. Commonly known as key value pairs, the element is refered to as a "Value" and the index is known as a "key". Hash maps are unordered compared to an array. In python they are known as dictionaries 
 
-stacks, queues, trees and graphs are not read, insert, delete so ima leave them out for now
+### stacks, queues, trees and graphs are not read, insert, delete so ima leave them out for now
 
 https://www.youtube.com/watch?v=kp3fCihUXEg
 
